@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\ESM\\ESM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE96BE-8DD9-441F-91E0-CB0E27E6AB78}|ESM\\ESM.vbproj|c:\\users\\user\\desktop\\esm\\esm\\esm\\evensearchmethod_module.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{68FE96BE-8DD9-441F-91E0-CB0E27E6AB78}|ESM\\ESM.vbproj|solutionrelative:esm\\evensearchmethod_module.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE96BE-8DD9-441F-91E0-CB0E27E6AB78}|ESM\\ESM.vbproj|c:\\users\\user\\desktop\\esm\\esm\\esm\\evensearchmethodform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{68FE96BE-8DD9-441F-91E0-CB0E27E6AB78}|ESM\\ESM.vbproj|solutionrelative:esm\\evensearchmethodform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE96BE-8DD9-441F-91E0-CB0E27E6AB78}|ESM\\ESM.vbproj|c:\\users\\user\\desktop\\esm\\esm\\esm\\evensearchmethodform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{68FE96BE-8DD9-441F-91E0-CB0E27E6AB78}|ESM\\ESM.vbproj|solutionrelative:esm\\evensearchmethodform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68FE96BE-8DD9-441F-91E0-CB0E27E6AB78}|ESM\\ESM.vbproj|c:\\users\\user\\desktop\\esm\\esm\\esm\\evensearchmethodform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{68FE96BE-8DD9-441F-91E0-CB0E27E6AB78}|ESM\\ESM.vbproj|solutionrelative:esm\\evensearchmethodform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvenSearchMethodForm.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ESM\\ESM\\ESM\\EvenSearchMethodForm.Designer.vb",
+              "RelativeDocumentMoniker": "ESM\\EvenSearchMethodForm.Designer.vb",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ESM\\ESM\\ESM\\EvenSearchMethodForm.Designer.vb",
+              "RelativeToolTip": "ESM\\EvenSearchMethodForm.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-11T07:12:01.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvenSearchMethod_Module.vb",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ESM\\ESM\\ESM\\EvenSearchMethod_Module.vb",
+              "RelativeDocumentMoniker": "ESM\\EvenSearchMethod_Module.vb",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ESM\\ESM\\ESM\\EvenSearchMethod_Module.vb",
+              "RelativeToolTip": "ESM\\EvenSearchMethod_Module.vb",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-12-19T18:28:00.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvenSearchMethodForm.vb",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ESM\\ESM\\ESM\\EvenSearchMethodForm.vb",
+              "RelativeDocumentMoniker": "ESM\\EvenSearchMethodForm.vb",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ESM\\ESM\\ESM\\EvenSearchMethodForm.vb",
+              "RelativeToolTip": "ESM\\EvenSearchMethodForm.vb",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwCMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-12-19T18:28:00.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EvenSearchMethodForm.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\ESM\\ESM\\ESM\\EvenSearchMethodForm.vb",
+              "RelativeDocumentMoniker": "ESM\\EvenSearchMethodForm.vb",
+              "ToolTip": "C:\\Users\\User\\Desktop\\ESM\\ESM\\ESM\\EvenSearchMethodForm.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ESM\\EvenSearchMethodForm.vb [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-12-19T18:28:00.692Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
